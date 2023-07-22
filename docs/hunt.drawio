@@ -1,0 +1,69 @@
+<mxfile host="65bd71144e">
+    <diagram id="YRD_wzLtDHRdywq3V2eH" name="Page-1">
+        <mxGraphModel dx="698" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="580" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="4" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="source folder" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="252" width="69" height="56.00000000000001" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.016;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="6" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="6" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="210" width="69" height="56.00000000000001" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
+                    <mxGeometry x="668" y="220" width="64" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
+                    <mxGeometry x="668" y="270" width="64" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
+                    <mxGeometry x="668" y="322" width="64" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="14" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;fontSize=14;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="380" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="dest folder" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="450" width="69" height="56.00000000000001" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;entryX=0.797;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="19" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="296" width="64" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="22" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;fontSize=14;" edge="1" parent="1" source="22" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;imagician hunt&lt;/font&gt;&lt;/b&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.terminal;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="326" width="61" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;b&gt;What does the imagian hunt command do?&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="540" width="317" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
